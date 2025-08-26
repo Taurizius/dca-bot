@@ -1,0 +1,130 @@
+2025/06/10 08:14:58 💰 Balance USDT: 1290.26
+2025/06/10 08:14:58 📅 The scheduler is running
+2025/07/07 11:45:23 ❌ Error of Binance API: <APIError> code=-1022, msg=Signature for this request is not valid.
+2025/07/07 11:45:23 Error when receiving the balance: <APIError> code=-1022, msg=Signature for this request is not valid.
+2025/07/07 11:46:55 ❌ Error of Binance API: <APIError> code=-1022, msg=Signature for this request is not valid.
+2025/07/07 11:46:55 Error when receiving the balance: <APIError> code=-1022, msg=Signature for this request is not valid.
+2025/07/07 11:53:20 💰 Balance USDC: 22.68
+2025/07/07 11:53:20 📅 The scheduler is running
+2025/07/07 12:00:00 🕒 It's time to buy!
+2025/07/07 12:00:00 ❌ Error of Binance API: <APIError> code=-2010, msg=Account has insufficient balance for requested action.
+2025/07/07 12:00:00 ❌ Buy error: <APIError> code=-2010, msg=Account has insufficient balance for requested action.
+2025/07/07 12:20:28 💰 Balance USDC: 22.68
+2025/07/07 12:20:28 📅 The scheduler is running
+2025/07/07 12:20:56 💰 Balance USDC: 22.68
+2025/07/07 12:20:56 📅 The scheduler is running
+2025/07/07 12:22:00 🕒 It's time to buy!
+2025/07/07 12:22:00 ❌ Error of Binance API: <APIError> code=-2010, msg=Account has insufficient balance for requested action.
+2025/07/07 12:22:00 ❌ Buy error: <APIError> code=-2010, msg=Account has insufficient balance for requested action.
+2025/07/07 12:31:19 💰 Balance USDC: 22.68
+2025/07/07 12:31:19 📅 The scheduler is running
+2025/07/07 12:32:00 🕒 It's time to buy!
+2025/07/07 12:32:00 ❌ Error of Binance API: <APIError> code=-2010, msg=Account has insufficient balance for requested action.
+2025/07/07 12:32:00 ❌ Buy error: <APIError> code=-2010, msg=Account has insufficient balance for requested action.
+2025/07/07 13:07:51 💰 Balance USDC: 22.68
+2025/07/07 13:07:51 📅 The scheduler is running
+2025/07/07 13:09:00 🕒 It's time to buy!
+2025/07/07 13:09:00 ❌ Error of Binance API: <APIError> code=-2010, msg=Account has insufficient balance for requested action.
+2025/07/07 13:09:00 ❌ Buy error: <APIError> code=-2010, msg=Account has insufficient balance for requested action.
+2025/07/07 13:27:19 💰 Balance USDC: 22.68
+2025/07/07 13:27:19 📅 The scheduler is running
+2025/07/07 13:28:00 🕒 It's time to buy!
+2025/07/07 13:28:00 ✅ Buy 0.000100 BTCUSDC
+2025/07/07 13:45:41 💰 Balance USDC: 11.80
+2025/07/07 13:45:41 📅 The scheduler is running
+2025/07/07 13:46:00 🕒 It's time to buy!
+2025/07/07 13:46:00 Aktueller Preis für BTCUSDC: 108764.05000000
+2025/07/07 13:46:00 Es werden gekauft BTCUSDC: %!f(string=0.000092)
+2025/07/07 13:46:00 ❌ Error of Binance API: <APIError> code=-1013, msg=Filter failure: LOT_SIZE
+2025/07/07 13:46:00 ❌ Buy error: <APIError> code=-1013, msg=Filter failure: LOT_SIZE
+2025/07/07 13:52:55 💰 Balance USDC: 11.80
+2025/07/07 13:52:55 📅 The scheduler is running
+2025/07/07 13:53:00 🕒 It's time to buy!
+2025/07/07 13:53:00 Aktueller Preis für BTCUSDC: 108652.54000000
+2025/07/07 13:53:00 Es werden gekauft BTCUSDC: 0.000101
+2025/07/07 13:53:00 ❌ Error of Binance API: <APIError> code=-1013, msg=Filter failure: LOT_SIZE
+2025/07/07 13:53:00 ❌ Buy error: <APIError> code=-1013, msg=Filter failure: LOT_SIZE
+2025/07/07 14:02:51 💰 Balance USDC: 11.80
+2025/07/07 14:02:51 📅 The scheduler is running
+2025/07/07 14:03:00 🕒 It's time to buy!
+2025/07/07 14:03:00 Aktueller Preis für BTCUSDC: 108611.12000000
+2025/07/07 14:03:00 Es werden gekauft BTCUSDC: 0.000101
+2025/07/07 14:03:00 ❌ Error of Binance API: <APIError> code=-1013, msg=Filter failure: LOT_SIZE
+2025/07/07 14:03:00 ❌ Buy error: <APIError> code=-1013, msg=Filter failure: LOT_SIZE
+2025/07/07 14:14:33 💰 Balance USDC: 11.80
+2025/07/07 14:14:33 📅 The scheduler is running
+2025/07/07 14:14:50 💰 Balance USDC: 11.80
+2025/07/07 14:14:50 📅 The scheduler is running
+2025/07/07 14:15:00 🕒 It's time to buy!
+2025/07/07 14:15:00 Aktueller Preis für BTCUSDC: 108538.00000000
+2025/07/07 14:15:00 Es werden gekauft BTCUSDC: 0.000100
+2025/07/07 14:15:00 ✅ Buy 11.000000 BTCUSDC
+2025/07/07 14:20:24 💰 Balance USDC: 0.95
+2025/07/07 14:20:24 📅 The scheduler is running
+2025/07/07 16:34:25 💰 Balance USDC: 0.95
+2025/07/07 16:34:25 📅 The scheduler is running
+2025/07/07 17:23:28 💰 Balance USDC: 0.95
+2025/07/07 17:23:28 📅 The scheduler is running
+2025/07/07 17:23:45 💰 Balance USDC: 0.95
+2025/07/07 17:23:45 📅 The scheduler is running
+2025/07/07 17:27:50 💰 Balance USDC: 0.95
+2025/07/07 17:27:50 📅 The scheduler is running
+2025/07/07 17:37:52 💰 Balance USDC: 0.95
+2025/07/07 17:37:52 📅 The scheduler is running
+2025/07/14 08:00:00 🕒 It's time to buy!
+2025/07/14 08:00:00 Aktueller Preis für BTCUSDC: 122508.00000000
+2025/07/14 08:00:00 Es werden gekauft BTCUSDC: 0.000080
+2025/07/14 08:00:00 ✅ Buy for  11.00 USDC
+2025/07/21 08:00:00 🕒 It's time to buy!
+2025/07/21 08:00:00 Aktueller Preis für BTCUSDC: 118481.05000000
+2025/07/21 08:00:00 Es werden gekauft BTCUSDC: 0.000090
+2025/07/21 08:00:01 ❌ Error of Binance API: <APIError> code=-2010, msg=Account has insufficient balance for requested action.
+2025/07/21 08:00:01 ❌ Buy error: <APIError> code=-2010, msg=Account has insufficient balance for requested action.
+2025/08/25 17:24:11 💰 Balance USDC: 0.00
+2025/08/25 17:24:11 📅 The scheduler is running
+2025/08/25 17:30:27 💰 Balance USDC: 0.00
+2025/08/25 17:30:27 📅 The scheduler is running
+2025/08/25 17:31:41 💰 Balance USDC: 127.44
+2025/08/25 17:31:41 📅 The scheduler is running
+2025/08/26 19:36:20 💰 Balance USDC: 104.95
+2025/08/26 19:36:20 📅 The scheduler is running
+2025/08/26 19:36:48 💰 Balance USDC: 104.95
+2025/08/26 19:36:48 Error when adding a cron task: end of range (38) above maximum (31): 38
+2025/08/26 19:37:21 💰 Balance USDC: 104.95
+2025/08/26 19:37:21 📅 The scheduler is running
+2025/08/26 19:38:00 🕒 It's time to buy BTC!
+2025/08/26 19:38:00 Aktueller Preis für BTCUSDC: 109725.37000000
+2025/08/26 19:38:00 Es werden gekauft BTCUSDC: 0.000090
+2025/08/26 19:38:00 ✅ Buy for  25.00 USDC
+2025/08/26 19:38:00 🕒 It's time to buy WBETH!
+2025/08/26 19:38:00 ❌ Error of Binance API: failed to get price: <APIError> code=-1121, msg=Invalid symbol.
+2025/08/26 19:38:00 ✅ Buy for  25.00 USDC
+2025/08/26 19:53:26 💰 Balance USDC: 95.08
+2025/08/26 19:53:26 📅 The scheduler is running
+2025/08/26 19:53:53 💰 Balance USDC: 95.08
+2025/08/26 19:53:53 📅 The scheduler is running
+2025/08/26 19:55:00 DEBUG  0.00 USDC%!(EXTRA string=BTCUSDC)
+2025/08/26 19:55:00 🕒 It's time to buy BTC!
+2025/08/26 19:55:00 Aktueller Preis für BTCUSDC: 109840.01000000
+2025/08/26 19:55:00 Es werden gekauft BTCUSDC: 0.000090
+2025/08/26 19:55:00 ✅ Buy for  10.00 USDC
+2025/08/26 19:55:00 🕒 It's time to buy WBETH!
+2025/08/26 19:55:00 Aktueller Preis für ETHUSDC: 4515.26000000
+2025/08/26 19:55:00 Es werden gekauft ETHUSDC: 0.002210
+2025/08/26 19:55:01 ❌ Error of Binance API: <APIError> code=-1013, msg=Filter failure: LOT_SIZE
+2025/08/26 19:55:01 ✅ Buy for  10.00 USDC
+2025/08/26 20:20:04 💰 Balance USDC: 85.19
+2025/08/26 20:20:04 📅 The scheduler is running
+2025/08/26 20:20:22 💰 Balance USDC: 85.19
+2025/08/26 20:20:22 📅 The scheduler is running
+2025/08/26 20:21:00 DEBUG  0.00 USDC%!(EXTRA string=BTCUSDC)
+2025/08/26 20:21:00 🕒 It's time to buy BTC!
+2025/08/26 20:21:00 Aktueller Preis für BTCUSDC: 110156.01000000
+2025/08/26 20:21:00 Es werden gekauft BTCUSDC: 0.000090
+2025/08/26 20:21:00 ✅ Buy for  10.00 USDC
+2025/08/26 20:21:00 🕒 It's time to buy WBETH!
+2025/08/26 20:21:00 Aktueller Preis für ETHUSDC: 4531.87000000
+2025/08/26 20:21:00 Es werden gekauft ETHUSDC: 0.002200
+2025/08/26 20:21:01 ✅ Buy for  10.00 USDC
+2025/08/26 21:27:20 💰 Balance USDC: 65.30
+2025/08/26 21:27:20 📅 The scheduler is running
