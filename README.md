@@ -1,3 +1,6 @@
+forked from https://github.com/Zmey56/dca-bot.git to some personal feature and to just learn
+
+
 # DCA Bot
 
 DCA (Dollar-Cost Averaging) Bot is an automated trading bot for the Binance cryptocurrency exchange, implemented in Go.
